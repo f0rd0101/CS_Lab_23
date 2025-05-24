@@ -1,0 +1,6 @@
+Airliners registered at the airport "Konotop":
+----------------------------------------
+Name: Boeing 737
+Airport: Konotop
+Number of passengers: 215
+Average speed: 850.30 km/h
